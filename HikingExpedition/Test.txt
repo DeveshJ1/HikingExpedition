@@ -1,0 +1,17 @@
+J food food 
+F raft
+O food food
+C food
+H food food raft river
+L
+P axe
+B food river
+D food fallen tree
+G 
+I
+N fallen tree
+Q raft fallen tree river
+A
+E
+M food food
+R
